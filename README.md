@@ -2,7 +2,7 @@
 
 My generative art stuff 😉
 
-See [art book](art-book)
+[Art Book](art-book)
 
 ## License
 
