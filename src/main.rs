@@ -1,5 +1,5 @@
 mod fractal;
 
 fn main() {
-  fractal::generate()
+    fractal::generate()
 }
