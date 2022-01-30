@@ -1,6 +1,6 @@
 # Generative Art
 
-My generative art stuff 😉
+My generative art stuff
 
 [Art Book](art-book)
 
